@@ -1,0 +1,11 @@
+body {
+    margin-top: 12px
+}
+
+.container h1 {
+    margin-bottom: 40px;
+}
+
+#form .form-floating{
+    margin-bottom: 18px;
+}
